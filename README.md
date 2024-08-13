@@ -5,9 +5,10 @@
 
 ## Features
 
-- **Tree View Representation:** Visualize JSON data in a hierarchical tree view.
+- **5 Different Ways To View:** Plain Text with line breaks, Formatted Text, Tree View, Tabular Format, Markdown View, and Data Graph View.
+- **Data Visual and Tree View Representation:** Visualize JSON data in a hierarchical tree view or graphical representation.
 - **Scrollable Interface:** Easily scroll through large JSON files.
-- **Automatic Column Width Adjustment:** Dynamically adjusts the column width based on the content.
+- **Search Function:** Built-in Search Function Pulls Up Your Search Term.
 - **Error Handling:** Graceful error handling with meaningful error messages.
 - **Cross-Platform:** Runs on any system that supports Python and Tkinter.
 
