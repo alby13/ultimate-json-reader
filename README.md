@@ -52,6 +52,8 @@ cd ultimate-json-reader
 Run the Application
 ```
 python ultimate_json_reader.py
+or
+python3 ultimate_json_reader.py
 ```
 
 # Try before you buy
