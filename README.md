@@ -13,7 +13,17 @@
 
 ## Screenshots
 
-![Ultimate JSON Reader Screenshot](path_to_screenshot.png)
+Screenshot 1:
+<img src="https://github.com/alby13/ultimate-json-reader/blob/main/screenshots/screenshot-1.png">
+Screenshot 2:
+<img src="https://github.com/alby13/ultimate-json-reader/blob/main/screenshots/screenshot-2.png">
+Screenshot 3:
+<img src="https://github.com/alby13/ultimate-json-reader/blob/main/screenshots/screenshot-3.png">
+Screenshot 4:
+<img src="https://github.com/alby13/ultimate-json-reader/blob/main/screenshots/screenshot-4.png">
+Screenshot 5:
+<img src="https://github.com/alby13/ultimate-json-reader/blob/main/screenshots/screenshot-5.png">
+
 
 ## Encryption Notice
 This program is encrypted with a custom Python encryption program. Despite the encryption, it is designed to run as a regular Python program. The source code is closed and not available for public viewing.
