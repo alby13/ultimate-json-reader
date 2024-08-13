@@ -1,7 +1,7 @@
 # Ultimate JSON Reader
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 
-**Ultimate JSON Reader** is a Python-based graphical application that allows you to read, explore, and visualize JSON files with ease. This application is built using `Tkinter` and is designed to handle complex and nested JSON structures, providing a user-friendly interface for JSON data manipulation.
+**Ultimate JSON Reader** is a Python-based graphical application that allows you to read, explore, and visualize JSON files with ease. This application is built using `Tkinter` and is designed to handle complex and nested JSON structures, providing a user-friendly interface for JSON data viewing.
 
 ## Features
 
