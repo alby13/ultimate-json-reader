@@ -29,6 +29,8 @@ Screenshot 5:
 ## Encryption Notice
 This program is encrypted with a custom Python encryption program. Despite the encryption, it is designed to run as a regular Python program. The source code is closed and not available for public viewing.
 
+If you're interested in File Encryption, you can review my File Lock Encryption Software: https://github.com/alby13/python-file-lock
+
 ## Installation
 
 ### Prerequisites
